@@ -1,3 +1,4 @@
+[
  {
      "name":"DEJAVU CAFE",
      "address":"Kutlubey Mah. 1005 Sok. 10 Isparta Merkez, Isparta",
@@ -7,8 +8,6 @@
      "categori":"Kafeler ve Kahve Dükkanları",
      "website":"--",
      "email":"---"
-<<<<<<< HEAD
-
   },
 
    {
@@ -547,6 +546,8 @@
      "email":"---"
 
   }
+
+ ]
   
   
   
