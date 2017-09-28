@@ -1,3 +1,3 @@
 # Place list in Isparta
 
-##  1.) Added www.bulurumi.com location Isparta 
+##  1.) Added www.bulurum.com location Isparta 
