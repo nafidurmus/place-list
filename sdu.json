@@ -1,0 +1,20 @@
+{
+    "university": "Süleyman Demirel Üniversitesi",
+    "faculity": "Bilgisayar Mühendisliği",
+    "home":"http://muhendislik.sdu.edu.tr/bilmuh",
+    "url": "http://muhendislik.sdu.edu.tr/bilmuh/tr/haberler",
+    "scrape": {
+        "news": {
+            "listItem": "ul.newslist > li",
+            "name": "announcement",
+            "data": {
+                "url": {
+                    "selector": "a.urltoGO",
+                    "attr": "href"
+                },
+                "title": "a",
+                "publishedAt": "span.date"
+            }
+        }
+    }
+}
