@@ -7,6 +7,12 @@
 
 ### If you want to check , you can use http://jsonviewer.stack.hu . 
 
+
+## Todo
+
+1.) Add place 
+2.) Fix it mistake
+
 ## Contributing
 
 1. Fork it ( https://github.com/[my-github-username]/place-list/fork )
