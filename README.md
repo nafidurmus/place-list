@@ -10,8 +10,8 @@
 
 ## Todo
 
-1.) Add place 
-2.) Fix it mistake
+1. Add place 
+2. Fix it mistake
 
 ## Contributing
 
