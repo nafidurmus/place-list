@@ -545,6 +545,126 @@
      "website":"--",
      "email":"---"
 
+  },
+
+   {
+     "name":"D'OR Cafe Bistro & Lounge",
+     "address":"Kutlubey Mah. 1004 Sok. 13 Isparta Merkez, Isparta",
+     "city":"Isparta",
+     "town":"Merkez",
+     "telephone":"0246 223 35 35",
+     "categori":"Kafeler ve Kahve Dükkanları",
+     "website":"--",
+     "email":"---"
+
+  },
+
+   {
+     "name":"Türkoloji Cafe & Park",
+     "address":"Bahçelievler Mh. Süleyman Demirel Blv. (Süleyman Demirel Blv.),",
+     "city":"Isparta",
+     "town":"Merkez",
+     "telephone":"---",
+     "categori":"Kafeler ve Kahve Dükkanları",
+     "website":"--",
+     "email":"---"
+
+  },
+
+   {
+     "name":"Böcüzade Parkı",
+     "address":"Bahçelievler mh. 141. cd, Isparta, Isparta",
+     "city":"Isparta",
+     "town":"Merkez",
+     "telephone":"0246 223 35 35",
+     "categori":"Kafeler ve Kahve Dükkanları",
+     "website":"--",
+     "email":"---"
+
+  },
+
+   {
+     "name":"Teras Park",
+     "address":"Emre Mah. 3819 Sok., Isparta",
+     "city":"Isparta",
+     "town":"Merkez",
+     "telephone":"---",
+     "categori":"Kafeler ve Kahve Dükkanları",
+     "website":"--",
+     "email":"---"
+
+  },
+
+   {
+     "name":"Stil Cafe",
+     "address":"Kafeler Caddesi, Isparta",
+     "city":"Isparta",
+     "town":"Merkez",
+     "telephone":"---",
+     "categori":"Kafeler ve Kahve Dükkanları",
+     "website":"--",
+     "email":"---"
+
+  },
+
+   {
+     "name":"Anatolia Cafe & Bistro",
+     "address":"Kutlubey Mh. 1005 Sk. No: 19 (EAK), Isparta",
+     "city":"Isparta",
+     "town":"Merkez",
+     "telephone":"---",
+     "categori":"Kafeler ve Kahve Dükkanları",
+     "website":"--",
+     "email":"---"
+
+  },
+
+   {
+     "name":"Dünya Kahveleri",
+     "address":"Kepeci Mh. İstasyon Cd. No:1 (İstasyon Caddesi), Isparta",
+     "city":"Isparta",
+     "town":"Merkez",
+     "telephone":"+90 536 285 71 75",
+     "categori":"Kafeler ve Kahve Dükkanları",
+     "website":"dunyakahveleri.com",
+     "email":"---"
+
+  },
+
+   {
+     "name":"Komagene & Kahvegene",
+     "address":"Piri Mehmet Mah. Mimar Sinan Cad. Vakılar İş Hanı No:6 Merkez, Isparta",
+     "city":"Isparta",
+     "town":"Merkez",
+     "telephone":"---",
+     "categori":"Kafeler ve Kahve Dükkanları",
+     "website":"--",
+     "email":"---"
+
+  },
+
+   {
+     "name":" Özsüt",
+     "address":"İstasyon Cd. No:23 (İstasyon Cd.), Isparta",
+     "city":"Isparta",
+     "town":"Merkez",
+     "telephone":"---",
+     "categori":"Kafeler ve Kahve Dükkanları",
+     "website":"--",
+     "email":"---"
+
+  },
+
+   {
+     "name":"Mado",
+     "address":"Iyaşpark, Isparta, Merkez",
+     "city":"Isparta",
+     "town":"Merkez",
+     "telephone":"---",
+     "categori":"Kafeler ve Kahve Dükkanları",
+     "website":"--",
+     "email":"---"
+
   }
 
  ]
@@ -568,5 +688,5 @@
 
 
 =======
- }
+ 
 >>>>>>> 8eab56d74d899a18cea7247be239c03b11c6dd95
