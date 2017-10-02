@@ -83,7 +83,35 @@
      "name":"Huni CafeBar 2",
      "address":"fatih mahallesi toptancılar sitesi no:3 (toptancilar sitesi) 32200 Isparta",
      "telephone":"90 507 522 97 83"
+  },
+  {
+     "name":"Beyoğlu Sokak Kahvecisi",
+     "address":"Fatih mah. 156. cad. Hanzade apartmanı ISPARTA",
+     "telephone":"----"
+  },
+  {
+     "name":"Big Yellow Taxi Benzin",
+     "address":"Kutlubey Mah. Cengiz Topel Cd. Çınar 1003 Sokak No: 3 ",
+     "telephone":"90 531 266 59 09"
+  },
+  {
+     "name":"Huni CLUB",
+     "address":"Toptancılar Sitesi No:3, Isparta, MERKEZ",
+     "telephone":"----"
+  },
+  {
+     "name":"LINE Cafe&Bistro",
+     "address":"Isparta Dr.Pizza karsisi, Isparta, Isparta",
+     "telephone":"----"
+  },
+  {
+     "name":"Bayramefendi Osmanlı Kahvecisi",
+     "address":"Bahçelievler Mh. 108. Cd. No:3/1, Isparta, Isparta",
+     "telephone":"+90 444 8 845"
   }
+
+
+
 
 
 ]
