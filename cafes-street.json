@@ -115,7 +115,38 @@
      "name":"212 CAFE VE RESTAURANT",
      "address":"Kutlubey Mah. 1002 Sok. Isparta Merkez, Isparta ",
      "telephone":"0246 218 16 26"
+    },
+    {
+     "name":"Huni Cafe & Bar",
+     "address":"Kutlubey Mahallesi 1003 Çinar Sokak No:18 (Cafeler Caddesi) ",
+     "telephone":"90 507 755 32 11"
+    },
+    {
+     "name":"Bahrein Cafe& Bıstro",
+     "address":"Pirimehmet 118 Cad. Cumhuriyet Cad. (118 Cadde)",
+     "telephone":"----"
+    },
+    {
+     "name":"Code 777",
+     "address":"Kutlubey Mahallesi (1005)",
+     "telephone":"----"
+    },
+    {
+     "name":"Cafe Sessiz",
+     "address":"Kutlubey Mh. 1005. Sk. No: 15 (İstasyon Caddesi)",
+     "telephone":"90 246 218 75 73"
+    },
+    {
+     "name":"Friends Cafe",
+     "address":"Kutlubey Mahallesi 1005 Cad. 32100 Isparta",
+     "telephone":"+90 507 626 38 31"
+    },
+    {
+     "name":"More Coffee & Tea",
+     "address":"Kutlubey Mh. 1002 sok. 11-1 (Türktelekom arası.)",
+     "telephone":"-----"
     }
+   
    
 
 

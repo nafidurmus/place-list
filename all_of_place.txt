@@ -24,17 +24,15 @@ name : Komagene & Kahvegene
 name :  Özsüt
 name : EZGİ KÜLTÜR SANAT CAFE
 name : 212 CAFE VE RESTAURANT
+name : Huni Cafe & Bar
+name : Bahrein Cafe& Bıstro
+name : Code 777
+name : Cafe Sessiz
+name : Friends
+name : More Coffee & Tea 
 
 --- it will add ---
 -------------------
-Huni Cafe & Bar
-Bahrein Cafe& Bıstro
-Code 777
-Cafe Sessiz  //  Kutlubey Mh. 1005. Sk. No: 15 (İstasyon Caddesi)
-Friends
-More Coffee & Tea //  Kutlubey Mh. 1002 sok. 11-1 (Türktelekom arası.), Isparta, Isparta
-
-
 
 
 
@@ -57,12 +55,12 @@ name : TELVE CAFE BISTRO
 name : DEM KAFE
 name : ÇALIKUŞU CAFE
 name : DAVŞAN CAFE 
+name : Huni CafeBar 2
 
 --- it will add ---
 -------------------
 Beyoğlu Sokak Kahvecisi
 Big Yellow Taxi Benzin // Kutlubey Mah. Cengiz Topel Cd. Çınar 1003 Sokak No: 3 
-Huni CafeBar 2
 Huni CLUB  // Toptancılar Sitesi No:3, Isparta, MERKEZ
 LINE Cafe&Bistro  // Isparta Dr.Pizza karsisi, Isparta, Isparta
 Bayramefendi Osmanlı Kahvecisi // Bahçelievler Mh. 108. Cd. No:3/1, Isparta, Isparta
