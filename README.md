@@ -1,4 +1,4 @@
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Place-list=https://github.com/nafidurmus/place-list)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Place-list= https://github.com/nafidurmus/place-list)
 
 # Place list in Isparta
 
